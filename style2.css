@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    margin-top:30%;
+    margin-top:30% ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(255, 210, 229, 1);
+    color:black;
+}
+
+.phone-num{
+    position: relative;
+    top:20px;
+    left:30px
+}
+
+footer img{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
