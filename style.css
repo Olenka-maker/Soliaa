@@ -1,0 +1,69 @@
+body{
+    color: rgb(255, 172, 186);
+    margin: 0;
+}
+.KIKO img{
+    width: 150px;
+    height: 200px;
+}
+.KIKOimg:hover {
+   opacity: 1; 
+   border: 6px solid rgb(255, 172, 172);
+   width: 150px;
+   height:200px;
+   padding: 5px;
+   transition: 0.5s ease-out;
+   text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    background-color: rgba(255, 210, 229, 1);
+    height: 400px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 40px;
+    color: black;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.maybelline-div{
+    display: flex;
+    justify-content: center;
+}
+
+.maybelline{
+    width: 400px;
+}
+
+footer{
+    background-color: rgba(255, 210, 229, 1);
+    color:black;
+}
+
+.phone-num{
+    position: relative;
+    top:20px;
+    left:30px
+}
+
+footer img{
+    margin-top: 15px;
+    margin-left: 30px;
+}
